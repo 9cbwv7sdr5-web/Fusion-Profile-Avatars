@@ -2,5 +2,14 @@
   "name": "Conan",
   "author": "9cbwv7sdr5-web",
   "version": 1,
-  "avatars": []
+  "avatars": [
+    {
+      "name": "Avatar 1",
+      "image": "IMG_1252.jpeg"
+    },
+    {
+      "name": "Avatar 2",
+      "image": "IMG_1253.jpeg"
+    }
+  ]
 }
